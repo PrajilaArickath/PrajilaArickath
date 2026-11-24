@@ -10,9 +10,9 @@ Operations and business coordination professional with an MBA and 8 years of exp
 ## Featured project
 **Retail Sales & Profitability Analysis (Excel):** why high revenue doesn't always mean high profit.
 See the Excel_Projects repository.
-
+**Retail Sales & Profitability Analysis and Dashboard(Power BI)** with findings and suggestions.See the Power BI repository.
 ## Skills
-Excel (Advanced) | Power BI | SQL | Data Visualization | Reporting
+Stakeholder Management,Human Resources and Administration,Business Coordination,Excel (Advanced) | Power BI | SQL | Data Visualization | Reporting
 
 ## Languages
 English, Hindi, Tamil, Malayalam, French (intermediate)
